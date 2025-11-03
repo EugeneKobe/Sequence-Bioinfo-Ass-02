@@ -1,5 +1,12 @@
 # Sequence-Bioinfo-Ass-03
 
+# Task 6
+Show how to interpret the output of the ILP solver; draw the extended alignment graph and indicate chosen
+edges, and also draw the associated multiple-sequence alignment.
+
+**Answer**
+
+
 
 # Task 7
 
